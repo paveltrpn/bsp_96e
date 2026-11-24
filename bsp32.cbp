@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BSP" />
+		<Option pch_mode="2" />
+		<Option compiler="mingw32" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="c:/bsp/bspvc32-dbg" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug" />
+				<Option type="0" />
+				<Option compiler="mingw32" />
+				<Compiler>
+					<Add option="-std=c++98" />
+					<Add option="-g" />
+					<Add option="-O0" />
+					<Add option="-D_WIN32" />
+					<Add option="-DDEBUG" />
+					<Add option="-D_WINDOWS" />
+					<Add directory="lib/png" />
+					<Add directory="lib/zlib" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="lib/png" />
+					<Add directory="lib/zlib" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="-Wl,--large-address-aware" />
+					<Add library="comctl32" />
+					<Add library="OpenGL32" />
+					<Add library="GlU32" />
+					<Add library="ddraw" />
+					<Add library="dxguid" />
+					<Add library="lib\mingw32\libpng.a" />
+					<Add library="lib\mingw32\libz.a" />
+					<Add directory="lib" />
+				</Linker>
+				<ExtraCommands>
+					<Add before="buildver.bat" />
+				</ExtraCommands>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="c:/bsp/bspvc32" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release" />
+				<Option type="0" />
+				<Option compiler="mingw32" />
+				<Compiler>
+					<Add option="-march=corei7" />
+					<Add option="-fomit-frame-pointer" />
+					<Add option="-O2" />
+					<Add option="-mmmx" />
+					<Add option="-fno-exceptions" />
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_UNICODE" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-D__MMX__" />
+					<Add directory="lib/png" />
+					<Add directory="lib/zlib" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="lib/png" />
+					<Add directory="lib/zlib" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="-Wl,--large-address-aware" />
+					<Add library="comctl32" />
+					<Add library="OpenGL32" />
+					<Add library="GlU32" />
+					<Add library="ddraw" />
+					<Add library="dxguid" />
+					<Add library="lib\mingw32\libpng.a" />
+					<Add library="lib\mingw32\libz.a" />
+					<Add directory="lib" />
+				</Linker>
+				<ExtraCommands>
+					<Add before="buildver.bat" />
+				</ExtraCommands>
+			</Target>
+			<Target title="Release SSE2 Win32">
+				<Option output="c:/bsp/bspvc32-sse2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release SSE2 Win32" />
+				<Option type="0" />
+				<Option compiler="mingw32" />
+				<Compiler>
+					<Add option="-march=corei7" />
+					<Add option="-fomit-frame-pointer" />
+					<Add option="-O2" />
+					<Add option="-msse2" />
+					<Add option="-fno-exceptions" />
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_UNICODE" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-D__MMX__" />
+					<Add option="-D__SSE__" />
+					<Add option="-D__SSE2__" />
+					<Add option="-D__SSE3__" />
+					<Add directory="lib/png" />
+					<Add directory="lib/zlib" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="lib/png" />
+					<Add directory="lib/zlib" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="-Wl,--large-address-aware" />
+					<Add library="comctl32" />
+					<Add library="OpenGL32" />
+					<Add library="GlU32" />
+					<Add library="ddraw" />
+					<Add library="dxguid" />
+					<Add library="lib\mingw32\libpng.a" />
+					<Add library="lib\mingw32\libz.a" />
+					<Add directory="lib" />
+				</Linker>
+				<ExtraCommands>
+					<Add before="buildver.bat" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Unit filename="Tokenizer.cpp" />
+		<Unit filename="Tokenizer.h" />
+		<Unit filename="about.cpp" />
+		<Unit filename="about.h" />
+		<Unit filename="bsp.cpp" />
+		<Unit filename="bsp2.cpp" />
+		<Unit filename="bsphdr.h" />
+		<Unit filename="bsppch.h" />
+		<Unit filename="bspresp.cpp" />
+		<Unit filename="bspui.cpp" />
+		<Unit filename="bspui2.cpp" />
+		<Unit filename="bspwin.h" />
+		<Unit filename="clipper.cpp" />
+		<Unit filename="clipper.h" />
+		<Unit filename="commands.h" />
+		<Unit filename="console.cpp" />
+		<Unit filename="console.h" />
+		<Unit filename="debug.cpp" />
+		<Unit filename="dialogs.h" />
+		<Unit filename="dlgpoly.cpp" />
+		<Unit filename="dlgpoly2.cpp" />
+		<Unit filename="draw.cpp" />
+		<Unit filename="draw.h" />
+		<Unit filename="eclass.cpp" />
+		<Unit filename="eclass.h" />
+		<Unit filename="editwin.cpp" />
+		<Unit filename="editwin.h" />
+		<Unit filename="enablers.cpp" />
+		<Unit filename="ent.cpp" />
+		<Unit filename="ent.h" />
+		<Unit filename="formats.h" />
+		<Unit filename="glmd2.cpp" />
+		<Unit filename="global.h" />
+		<Unit filename="glutil.cpp" />
+		<Unit filename="group.cpp" />
+		<Unit filename="group.h" />
+		<Unit filename="help.cpp" />
+		<Unit filename="help.h" />
+		<Unit filename="hits.cpp" />
+		<Unit filename="imageutil.cpp" />
+		<Unit filename="jpgload.cpp" />
+		<Unit filename="keypair.cpp" />
+		<Unit filename="keypair.h" />
+		<Unit filename="lib/jpeg8/jaricom.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcapimin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcapistd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcarith.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jccoefct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jccolor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcdctmgr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jchuff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcinit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcmainct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcmarker.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcmaster.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcomapi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jconfig.h" />
+		<Unit filename="lib/jpeg8/jcparam.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcprepct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jcsample.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jctrans.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdapimin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdapistd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdarith.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdatadst.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdatasrc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdcoefct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdcolor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdct.h" />
+		<Unit filename="lib/jpeg8/jddctmgr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdhuff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdinput.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdmainct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdmarker.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdmaster.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdmerge.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdpostct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdsample.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jdtrans.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jerror.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jerror.h" />
+		<Unit filename="lib/jpeg8/jfdctflt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jfdctfst.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jfdctint.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jidctflt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jidctfst.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jidctint.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jinclude.h" />
+		<Unit filename="lib/jpeg8/jmemmgr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jmemnobs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jmemsys.h" />
+		<Unit filename="lib/jpeg8/jmorecfg.h" />
+		<Unit filename="lib/jpeg8/jpegint.h" />
+		<Unit filename="lib/jpeg8/jpeglib.h" />
+		<Unit filename="lib/jpeg8/jquant1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jquant2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jutils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/jpeg8/jversion.h" />
+		<Unit filename="lib/mss/mss.h" />
+		<Unit filename="lib/mss/no_mss.h" />
+		<Unit filename="lib/png/png.h" />
+		<Unit filename="lib/png/pngconf.h" />
+		<Unit filename="lib/png/pnglibconf.h" />
+		<Unit filename="lib/zlib/zconf.h" />
+		<Unit filename="lib/zlib/zlib.h" />
+		<Unit filename="map.cpp" />
+		<Unit filename="map.h" />
+		<Unit filename="map2.cpp" />
+		<Unit filename="matrix3.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="monster.cpp" />
+		<Unit filename="monster.h" />
+		<Unit filename="propctl.cpp" />
+		<Unit filename="propctl.h" />
+		<Unit filename="qtype.h" />
+		<Unit filename="render.cpp" />
+		<Unit filename="res/IDB_MAPGADGETBM.BMP" />
+		<Unit filename="res/Idi_entity.ico" />
+		<Unit filename="res/Idi_group.ico" />
+		<Unit filename="res/Idi_monster.ico" />
+		<Unit filename="res/Idi_quake.ico" />
+		<Unit filename="res/Idi_quakesmall.ico" />
+		<Unit filename="res/Idi_surface.ico" />
+		<Unit filename="res/Idi_texture.ico" />
+		<Unit filename="res/Idi_threed.ico" />
+		<Unit filename="res/bsp.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="res/entity1.ico" />
+		<Unit filename="res/idi_help.ico" />
+		<Unit filename="res/idi_xy.ico" />
+		<Unit filename="res/resource.h" />
+		<Unit filename="res/splash.bmp" />
+		<Unit filename="setbrush.cpp" />
+		<Unit filename="setbrush.h" />
+		<Unit filename="settings.cpp" />
+		<Unit filename="settings.h" />
+		<Unit filename="surface.cpp" />
+		<Unit filename="surface.h" />
+		<Unit filename="texinfo.cpp" />
+		<Unit filename="texture.cpp" />
+		<Unit filename="texture.h" />
+		<Unit filename="texture2.cpp" />
+		<Unit filename="util.cpp" />
+		<Unit filename="util.h" />
+		<Unit filename="wcontrol.cpp" />
+		<Unit filename="wcontrol.h" />
+		<Unit filename="wdialog.cpp" />
+		<Unit filename="wdialog.h" />
+		<Unit filename="window.cpp" />
+		<Unit filename="window.h" />
+		<Unit filename="wutil.cpp" />
+		<Unit filename="wutil.h" />
+		<Unit filename="xyview.cpp" />
+		<Unit filename="xyview.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

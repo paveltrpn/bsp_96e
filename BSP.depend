@@ -1,0 +1,1908 @@
+# depslib dependency file v1.0
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jddctmgr.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1124190588 c:\codeblocks\src\cleanbsp\lib\jpeg6\jinclude.h
+	"jconfig.h"
+	<stddef.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdio.h>
+	<strings.h>
+	<string.h>
+
+1124190588 c:\codeblocks\src\cleanbsp\lib\jpeg6\jconfig.h
+
+1330533233 c:\codeblocks\src\cleanbsp\lib\jpeg6\jpeglib.h
+	"windows.h"
+	"stdio.h"
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1124190588 c:\codeblocks\src\cleanbsp\lib\jpeg6\jmorecfg.h
+
+1330533233 c:\codeblocks\src\cleanbsp\lib\jpeg6\jpegint.h
+
+1330533232 c:\codeblocks\src\cleanbsp\lib\jpeg6\jerror.h
+
+1330533233 c:\codeblocks\src\cleanbsp\lib\jpeg6\jdct.h
+
+1330533233 source:c:\codeblocks\src\cleanbsp\ent.cpp
+	"global.h"
+
+1330547273 c:\codeblocks\src\cleanbsp\global.h
+	"bsppch.h"
+	"mss.h"
+	"bsphdr.h"
+	"util.h"
+	"tokenizer.h"
+	"qtype.h"
+	"settings.h"
+	"wutil.h"
+	"window.h"
+	"wcontrol.h"
+	"wdialog.h"
+	"dialogs.h"
+	"setbrush.h"
+	"ent.h"
+	"map.h"
+	"eclass.h"
+	"clipper.h"
+	"group.h"
+	"formats.h"
+	"texture.h"
+	"xyview.h"
+	"editwin.h"
+	"keypair.h"
+	"about.h"
+	"bspwin.h"
+	"help.h"
+	"console.h"
+	"monster.h"
+	"surface.h"
+	"commands.h"
+	"menu.h"
+	"res\resource.h"
+
+1239213402 c:\codeblocks\src\cleanbsp\bsppch.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<fcntl.h>
+	<io.h>
+	<time.h>
+	<windows.h>
+	<commctrl.h>
+	<GL\gl.h>
+	<GL\glu.h>
+
+1330545780 c:\codeblocks\src\cleanbsp\bsphdr.h
+
+1330536086 c:\codeblocks\src\cleanbsp\util.h
+	<string.h>
+	"global.h"
+
+1330533233 c:\codeblocks\src\cleanbsp\tokenizer.h
+	"global.h"
+
+1330533233 c:\codeblocks\src\cleanbsp\qtype.h
+
+1330533233 c:\codeblocks\src\cleanbsp\settings.h
+	"bsphdr.h"
+
+1330533232 c:\codeblocks\src\cleanbsp\wutil.h
+
+1330533233 c:\codeblocks\src\cleanbsp\window.h
+
+1330533233 c:\codeblocks\src\cleanbsp\wcontrol.h
+
+1330533233 c:\codeblocks\src\cleanbsp\wdialog.h
+
+1190844686 c:\codeblocks\src\cleanbsp\dialogs.h
+	"propctl.h"
+	"commands.h"
+
+1330533233 c:\codeblocks\src\cleanbsp\propctl.h
+	<windows.h>
+	"window.h"
+	"wcontrol.h"
+
+1330533233 c:\codeblocks\src\cleanbsp\commands.h
+
+1330533233 c:\codeblocks\src\cleanbsp\setbrush.h
+
+1330536086 c:\codeblocks\src\cleanbsp\ent.h
+
+1330533233 c:\codeblocks\src\cleanbsp\map.h
+
+1330533233 c:\codeblocks\src\cleanbsp\eclass.h
+
+1330533233 c:\codeblocks\src\cleanbsp\clipper.h
+
+1169395594 c:\codeblocks\src\cleanbsp\group.h
+
+1239299460 c:\codeblocks\src\cleanbsp\formats.h
+
+1330376814 c:\codeblocks\src\cleanbsp\texture.h
+
+1186354332 c:\codeblocks\src\cleanbsp\xyview.h
+
+1182896092 c:\codeblocks\src\cleanbsp\editwin.h
+
+1186274190 c:\codeblocks\src\cleanbsp\keypair.h
+
+1330533232 c:\codeblocks\src\cleanbsp\about.h
+
+1330371649 c:\codeblocks\src\cleanbsp\bspwin.h
+
+1168278730 c:\codeblocks\src\cleanbsp\help.h
+
+1330533233 c:\codeblocks\src\cleanbsp\console.h
+
+1168278868 c:\codeblocks\src\cleanbsp\monster.h
+
+1168278870 c:\codeblocks\src\cleanbsp\surface.h
+
+1330533233 c:\codeblocks\src\cleanbsp\menu.h
+
+1184492972 c:\codeblocks\src\cleanbsp\res\resource.h
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jmemnobs.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1330533233 c:\codeblocks\src\cleanbsp\lib\jpeg6\jmemsys.h
+
+1330533232 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jfdctflt.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\surface.cpp
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\jpgload.cpp
+	"lib/jpeg6/jpeglib.h"
+	<memory.h>
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jmemmgr.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1330545780 source:c:\codeblocks\src\cleanbsp\about.cpp
+	"global.h"
+	"buildver.h"
+
+1330548790 c:\codeblocks\src\cleanbsp\buildver.h
+
+1330540496 source:c:\codeblocks\src\cleanbsp\imageutil.cpp
+	"global.h"
+	"lib/png/png.h"
+	"lib/jpeg6/jpeglib.h"
+
+1315343898 c:\codeblocks\src\cleanbsp\lib\png\png.h
+	"pnglibconf.h"
+	<setjmp.h>
+	<time.h>
+	"pngconf.h"
+
+1315343898 c:\codeblocks\src\cleanbsp\lib\png\pngconf.h
+	<limits.h>
+	<strings.h>
+	<string.h>
+	<stdio.h>
+	<dos.h>
+
+1330533232 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jerror.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jversion.h"
+	"jerror.h"
+	"jerror.h"
+
+1124190588 c:\codeblocks\src\cleanbsp\lib\jpeg6\jversion.h
+
+1330540496 source:c:\codeblocks\src\cleanbsp\glutil.cpp
+	"global.h"
+	"lib/jpeg6/jpeglib.h"
+	"lib/png/png.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\group.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdtrans.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533281 source:c:\codeblocks\src\cleanbsp\bsp.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\glmd2.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdsample.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330544540 source:c:\codeblocks\src\cleanbsp\bsp2.cpp
+	"global.h"
+	"buildver.h"
+	<commctrl.h>
+
+1330533232 source:c:\codeblocks\src\cleanbsp\help.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdpostct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdmaster.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\draw.cpp
+	"global.h"
+	"draw.h"
+
+1185305844 c:\codeblocks\src\cleanbsp\draw.h
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\hits.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdmarker.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330539340 source:c:\codeblocks\src\cleanbsp\bspresp.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\debug.cpp
+	"global.h"
+
+1330538474 source:c:\codeblocks\src\cleanbsp\keypair.cpp
+	"global.h"
+	"propctl.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdmainct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330538474 source:c:\codeblocks\src\cleanbsp\bspui.cpp
+	"global.h"
+
+1330540496 source:c:\codeblocks\src\cleanbsp\wutil.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdinput.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330537075 source:c:\codeblocks\src\cleanbsp\bspui2.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\console.cpp
+	"global.h"
+
+1330537027 source:c:\codeblocks\src\cleanbsp\map.cpp
+	"global.h"
+
+1330544935 source:c:\codeblocks\src\cleanbsp\window.cpp
+	"global.h"
+	"propctl.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdhuff.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdhuff.h"
+
+1330533233 c:\codeblocks\src\cleanbsp\lib\jpeg6\jdhuff.h
+
+1330533233 source:c:\codeblocks\src\cleanbsp\clipper.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\map2.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\menu.cpp
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\texture2.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\monster.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\xyview.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdcolor.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\tokenizer.cpp
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdatasrc.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jerror.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdapistd.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdapimin.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330535018 source:c:\codeblocks\src\cleanbsp\texture.cpp
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jcomapi.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jidctflt.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1330543888 source:c:\codeblocks\src\cleanbsp\propctl.cpp
+	"global.h"
+	"propctl.h"
+
+1330543960 source:c:\codeblocks\src\cleanbsp\wdialog.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\matrix3.cpp
+	"global.h"
+
+1330544935 source:c:\codeblocks\src\cleanbsp\dlgpoly.cpp
+	"global.h"
+	"propctl.h"
+
+1330544935 source:c:\codeblocks\src\cleanbsp\wcontrol.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\dlgpoly2.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jutils.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\eclass.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\texinfo.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\render.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\setbrush.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\editwin.cpp
+	"global.h"
+
+1183676964 source:c:\codeblocks\src\cleanbsp\res\bsp.rc
+	"resource.h"
+	"winresrc.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\settings.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp\enablers.cpp
+	"global.h"
+
+1330535570 source:c:\codeblocks\src\cleanbsp\util.cpp
+	"global.h"
+	<share.h>
+
+1330533233 source:c:\codeblocks\src\cleanbsp\lib\jpeg6\jdcoefct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1315343898 c:\codeblocks\src\cleanbsp\lib\png\pnglibconf.h
+
+1291699019 c:\codeblocks\src\cleanbsp\lib\mss\mss.h
+	<stdlib.h>
+	<string.h>
+	<new>
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jidctflt.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1124190588 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jinclude.h
+	"jconfig.h"
+	<stddef.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdio.h>
+	<strings.h>
+	<string.h>
+
+1124190588 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jconfig.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jpeglib.h
+	"windows.h"
+	"stdio.h"
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1124190588 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jmorecfg.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jpegint.h
+
+1330533232 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jerror.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdct.h
+
+1330612696 source:c:\codeblocks\src\cleanbsp-0.96e\glutil.cpp
+	"global.h"
+	"lib/jpeg6/jpeglib.h"
+	"lib/png/png.h"
+
+1330563982 c:\codeblocks\src\cleanbsp-0.96e\global.h
+	"bsppch.h"
+	"mss.h"
+	"bsphdr.h"
+	"util.h"
+	"tokenizer.h"
+	"qtype.h"
+	"settings.h"
+	"wutil.h"
+	"window.h"
+	"wcontrol.h"
+	"wdialog.h"
+	"dialogs.h"
+	"setbrush.h"
+	"ent.h"
+	"map.h"
+	"eclass.h"
+	"clipper.h"
+	"group.h"
+	"formats.h"
+	"texture.h"
+	"xyview.h"
+	"editwin.h"
+	"keypair.h"
+	"about.h"
+	"bspwin.h"
+	"help.h"
+	"console.h"
+	"monster.h"
+	"surface.h"
+	"commands.h"
+	"menu.h"
+	"res\resource.h"
+
+1239213402 c:\codeblocks\src\cleanbsp-0.96e\bsppch.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<fcntl.h>
+	<io.h>
+	<time.h>
+	<windows.h>
+	<commctrl.h>
+	<GL\gl.h>
+	<GL\glu.h>
+
+1291699019 c:\codeblocks\src\cleanbsp-0.96e\lib\mss\mss.h
+	<stdlib.h>
+	<string.h>
+	<new>
+
+1330545780 c:\codeblocks\src\cleanbsp-0.96e\bsphdr.h
+
+1330557958 c:\codeblocks\src\cleanbsp-0.96e\util.h
+	<string.h>
+	"global.h"
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\tokenizer.h
+	"global.h"
+
+1330567454 c:\codeblocks\src\cleanbsp-0.96e\qtype.h
+
+1330564454 c:\codeblocks\src\cleanbsp-0.96e\settings.h
+	"bsphdr.h"
+
+1330533232 c:\codeblocks\src\cleanbsp-0.96e\wutil.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\window.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\wcontrol.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\wdialog.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\dialogs.h
+	"propctl.h"
+	"commands.h"
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\propctl.h
+	<windows.h>
+	"window.h"
+	"wcontrol.h"
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\commands.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\setbrush.h
+
+1330536086 c:\codeblocks\src\cleanbsp-0.96e\ent.h
+
+1330558336 c:\codeblocks\src\cleanbsp-0.96e\map.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\eclass.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\clipper.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\group.h
+
+1239299460 c:\codeblocks\src\cleanbsp-0.96e\formats.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\texture.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\xyview.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\editwin.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\keypair.h
+
+1330533232 c:\codeblocks\src\cleanbsp-0.96e\about.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\bspwin.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\help.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\console.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\monster.h
+
+1330612696 c:\codeblocks\src\cleanbsp-0.96e\surface.h
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\menu.h
+
+1184492972 c:\codeblocks\src\cleanbsp-0.96e\res\resource.h
+
+1315343898 c:\codeblocks\src\cleanbsp-0.96e\lib\png\png.h
+	"pnglibconf.h"
+	<setjmp.h>
+	<time.h>
+	"pngconf.h"
+
+1315343898 c:\codeblocks\src\cleanbsp-0.96e\lib\png\pnglibconf.h
+
+1315343898 c:\codeblocks\src\cleanbsp-0.96e\lib\png\pngconf.h
+	<limits.h>
+	<strings.h>
+	<string.h>
+	<stdio.h>
+	<dos.h>
+
+1330617235 source:c:\codeblocks\src\cleanbsp-0.96e\setbrush.cpp
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jfdctflt.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1183676964 source:c:\codeblocks\src\cleanbsp-0.96e\res\bsp.rc
+	"resource.h"
+	"winresrc.h"
+
+1330611696 source:c:\codeblocks\src\cleanbsp-0.96e\glmd2.cpp
+	"global.h"
+
+1330611696 source:c:\codeblocks\src\cleanbsp-0.96e\render.cpp
+	"global.h"
+
+1330611696 source:c:\codeblocks\src\cleanbsp-0.96e\bspresp.cpp
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\jpgload.cpp
+	"lib/jpeg6/jpeglib.h"
+	<memory.h>
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jerror.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jversion.h"
+	"jerror.h"
+	"jerror.h"
+
+1124190588 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jversion.h
+
+1330612696 source:c:\codeblocks\src\cleanbsp-0.96e\bspui.cpp
+	"global.h"
+
+1330568445 source:c:\codeblocks\src\cleanbsp-0.96e\imageutil.cpp
+	"global.h"
+	"lib/png/png.h"
+	"lib/jpeg6/jpeglib.h"
+
+1330558924 source:c:\codeblocks\src\cleanbsp-0.96e\monster.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdtrans.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330612515 source:c:\codeblocks\src\cleanbsp-0.96e\bspui2.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\matrix3.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdsample.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\draw.cpp
+	"global.h"
+	"draw.h"
+
+1185305844 c:\codeblocks\src\cleanbsp-0.96e\draw.h
+	"global.h"
+
+1330612696 source:c:\codeblocks\src\cleanbsp-0.96e\clipper.cpp
+	"global.h"
+
+1330612675 source:c:\codeblocks\src\cleanbsp-0.96e\map2.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdpostct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdmaster.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330611859 source:c:\codeblocks\src\cleanbsp-0.96e\debug.cpp
+	"global.h"
+
+1330617235 source:c:\codeblocks\src\cleanbsp-0.96e\map.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdmarker.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330558924 source:c:\codeblocks\src\cleanbsp-0.96e\keypair.cpp
+	"global.h"
+	"propctl.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdmainct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330612696 source:c:\codeblocks\src\cleanbsp-0.96e\console.cpp
+	"global.h"
+
+1330559821 source:c:\codeblocks\src\cleanbsp-0.96e\wutil.cpp
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\hits.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdinput.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330559821 source:c:\codeblocks\src\cleanbsp-0.96e\help.cpp
+	"global.h"
+
+1330559821 source:c:\codeblocks\src\cleanbsp-0.96e\window.cpp
+	"global.h"
+	"propctl.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\group.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdhuff.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdhuff.h"
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdhuff.h
+
+1330617235 source:c:\codeblocks\src\cleanbsp-0.96e\xyview.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jddctmgr.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1330560584 source:c:\codeblocks\src\cleanbsp-0.96e\util.cpp
+	"global.h"
+	<share.h>
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jutils.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330560584 source:c:\codeblocks\src\cleanbsp-0.96e\wdialog.cpp
+	"global.h"
+
+1330563982 source:c:\codeblocks\src\cleanbsp-0.96e\ent.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdcolor.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330563982 source:c:\codeblocks\src\cleanbsp-0.96e\propctl.cpp
+	"global.h"
+	"propctl.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\tokenizer.cpp
+	"global.h"
+
+1330611696 source:c:\codeblocks\src\cleanbsp-0.96e\wcontrol.cpp
+	"global.h"
+
+1330563982 source:c:\codeblocks\src\cleanbsp-0.96e\enablers.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdcoefct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330611696 source:c:\codeblocks\src\cleanbsp-0.96e\texture2.cpp
+	"global.h"
+
+1330613208 source:c:\codeblocks\src\cleanbsp-0.96e\editwin.cpp
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdatasrc.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jerror.h"
+
+1330617235 source:c:\codeblocks\src\cleanbsp-0.96e\texture.cpp
+	"global.h"
+
+1330545780 source:c:\codeblocks\src\cleanbsp-0.96e\about.cpp
+	"global.h"
+	"buildver.h"
+
+1330692731 c:\codeblocks\src\cleanbsp-0.96e\buildver.h
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdapistd.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330612675 source:c:\codeblocks\src\cleanbsp-0.96e\menu.cpp
+	"global.h"
+
+1330563982 source:c:\codeblocks\src\cleanbsp-0.96e\surface.cpp
+	"global.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jmemnobs.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1330533233 c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jmemsys.h
+
+1330570174 source:c:\codeblocks\src\cleanbsp-0.96e\texinfo.cpp
+	"global.h"
+
+1330563982 source:c:\codeblocks\src\cleanbsp-0.96e\eclass.cpp
+	"global.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jdapimin.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533233 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jmemmgr.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1330563982 source:c:\codeblocks\src\cleanbsp-0.96e\bsp.cpp
+	"global.h"
+
+1330563982 source:c:\codeblocks\src\cleanbsp-0.96e\dlgpoly2.cpp
+	"global.h"
+
+1330566680 source:c:\codeblocks\src\cleanbsp-0.96e\settings.cpp
+	"global.h"
+
+1330612515 source:c:\codeblocks\src\cleanbsp-0.96e\bsp2.cpp
+	"global.h"
+	"buildver.h"
+	<commctrl.h>
+
+1330565034 source:c:\codeblocks\src\cleanbsp-0.96e\dlgpoly.cpp
+	"global.h"
+	"propctl.h"
+
+1330533232 source:c:\codeblocks\src\cleanbsp-0.96e\lib\jpeg6\jcomapi.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1344002077 source:d:\bsp\cleanbsp-0.96e-src\debug.cpp
+	"global.h"
+
+1344000023 d:\bsp\cleanbsp-0.96e-src\global.h
+	"bsppch.h"
+	"bsphdr.h"
+	"util.h"
+	"tokenizer.h"
+	"qtype.h"
+	"settings.h"
+	"wutil.h"
+	"window.h"
+	"wcontrol.h"
+	"wdialog.h"
+	"dialogs.h"
+	"setbrush.h"
+	"ent.h"
+	"map.h"
+	"eclass.h"
+	"clipper.h"
+	"group.h"
+	"formats.h"
+	"texture.h"
+	"xyview.h"
+	"editwin.h"
+	"keypair.h"
+	"about.h"
+	"bspwin.h"
+	"help.h"
+	"console.h"
+	"monster.h"
+	"surface.h"
+	"commands.h"
+	"menu.h"
+	"res\resource.h"
+
+1239217002 d:\bsp\cleanbsp-0.96e-src\bsppch.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<fcntl.h>
+	<io.h>
+	<time.h>
+	<windows.h>
+	<commctrl.h>
+	<GL\gl.h>
+	<GL\glu.h>
+
+1330549380 d:\bsp\cleanbsp-0.96e-src\bsphdr.h
+
+1330561558 d:\bsp\cleanbsp-0.96e-src\util.h
+	<string.h>
+	"global.h"
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\tokenizer.h
+	"global.h"
+
+1330571054 d:\bsp\cleanbsp-0.96e-src\qtype.h
+
+1330568054 d:\bsp\cleanbsp-0.96e-src\settings.h
+	"bsphdr.h"
+
+1330536832 d:\bsp\cleanbsp-0.96e-src\wutil.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\window.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\wcontrol.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\wdialog.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\dialogs.h
+	"propctl.h"
+	"commands.h"
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\propctl.h
+	<windows.h>
+	"window.h"
+	"wcontrol.h"
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\commands.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\setbrush.h
+
+1330539686 d:\bsp\cleanbsp-0.96e-src\ent.h
+
+1330561936 d:\bsp\cleanbsp-0.96e-src\map.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\eclass.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\clipper.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\group.h
+
+1239303060 d:\bsp\cleanbsp-0.96e-src\formats.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\texture.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\xyview.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\editwin.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\keypair.h
+
+1330536832 d:\bsp\cleanbsp-0.96e-src\about.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\bspwin.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\help.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\console.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\monster.h
+
+1330616296 d:\bsp\cleanbsp-0.96e-src\surface.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\menu.h
+
+1184496572 d:\bsp\cleanbsp-0.96e-src\res\resource.h
+
+1330549380 source:d:\bsp\cleanbsp-0.96e-src\about.cpp
+	"global.h"
+	"buildver.h"
+
+1344002417 d:\bsp\cleanbsp-0.96e-src\buildver.h
+
+1330563421 source:d:\bsp\cleanbsp-0.96e-src\wutil.cpp
+	"global.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\draw.cpp
+	"global.h"
+	"draw.h"
+
+1185309444 d:\bsp\cleanbsp-0.96e-src\draw.h
+	"global.h"
+
+1344000208 source:d:\bsp\cleanbsp-0.96e-src\bsp.cpp
+	"global.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdcoefct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1124194188 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jinclude.h
+	"jconfig.h"
+	<stddef.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdio.h>
+	<strings.h>
+	<string.h>
+
+1124194188 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jconfig.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jpeglib.h
+	"windows.h"
+	"stdio.h"
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1124194188 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jmorecfg.h
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jpegint.h
+
+1330536832 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jerror.h
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdcolor.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1344002077 source:d:\bsp\cleanbsp-0.96e-src\bsp2.cpp
+	"global.h"
+	"buildver.h"
+	<commctrl.h>
+
+1330615296 source:d:\bsp\cleanbsp-0.96e-src\glmd2.cpp
+	"global.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jddctmgr.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdct.h
+
+1330616296 source:d:\bsp\cleanbsp-0.96e-src\glutil.cpp
+	"global.h"
+	"lib/jpeg6/jpeglib.h"
+	"lib/png/png.h"
+
+1315347498 d:\bsp\cleanbsp-0.96e-src\lib\png\png.h
+	"pnglibconf.h"
+	<setjmp.h>
+	<time.h>
+	"pngconf.h"
+
+1315347498 d:\bsp\cleanbsp-0.96e-src\lib\png\pnglibconf.h
+
+1315347498 d:\bsp\cleanbsp-0.96e-src\lib\png\pngconf.h
+	<limits.h>
+	<strings.h>
+	<string.h>
+	<stdio.h>
+	<dos.h>
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdhuff.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdhuff.h"
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdhuff.h
+
+1330616275 source:d:\bsp\cleanbsp-0.96e-src\map2.cpp
+	"global.h"
+
+1330616275 source:d:\bsp\cleanbsp-0.96e-src\menu.cpp
+	"global.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\matrix3.cpp
+	"global.h"
+
+1330695856 source:d:\bsp\cleanbsp-0.96e-src\bspresp.cpp
+	"global.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdinput.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330562524 source:d:\bsp\cleanbsp-0.96e-src\monster.cpp
+	"global.h"
+
+1330695856 source:d:\bsp\cleanbsp-0.96e-src\bspui.cpp
+	"global.h"
+
+1344002077 source:d:\bsp\cleanbsp-0.96e-src\imageutil.cpp
+	"global.h"
+	"lib/png/png.h"
+	"lib/jpeg6/jpeglib.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdmainct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330695856 source:d:\bsp\cleanbsp-0.96e-src\bspui2.cpp
+	"global.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\jpgload.cpp
+	"lib/jpeg6/jpeglib.h"
+	<memory.h>
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdmarker.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330567582 source:d:\bsp\cleanbsp-0.96e-src\propctl.cpp
+	"global.h"
+	"propctl.h"
+
+1330615296 source:d:\bsp\cleanbsp-0.96e-src\render.cpp
+	"global.h"
+
+1330695856 source:d:\bsp\cleanbsp-0.96e-src\clipper.cpp
+	"global.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdmaster.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330620835 source:d:\bsp\cleanbsp-0.96e-src\setbrush.cpp
+	"global.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdpostct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330568634 source:d:\bsp\cleanbsp-0.96e-src\dlgpoly.cpp
+	"global.h"
+	"propctl.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jcomapi.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdsample.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330570280 source:d:\bsp\cleanbsp-0.96e-src\settings.cpp
+	"global.h"
+
+1330567582 source:d:\bsp\cleanbsp-0.96e-src\dlgpoly2.cpp
+	"global.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdtrans.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1344002077 source:d:\bsp\cleanbsp-0.96e-src\eclass.cpp
+	"global.h"
+
+1183680564 source:d:\bsp\cleanbsp-0.96e-src\res\bsp.rc
+	"resource.h"
+	"winresrc.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdapimin.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jerror.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jversion.h"
+	"jerror.h"
+	"jerror.h"
+
+1124194188 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jversion.h
+
+1330567582 source:d:\bsp\cleanbsp-0.96e-src\surface.cpp
+	"global.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdapistd.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330620835 source:d:\bsp\cleanbsp-0.96e-src\texture.cpp
+	"global.h"
+
+1330696234 source:d:\bsp\cleanbsp-0.96e-src\editwin.cpp
+	"global.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdatasrc.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jerror.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jfdctflt.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1330615296 source:d:\bsp\cleanbsp-0.96e-src\texture2.cpp
+	"global.h"
+
+1330567582 source:d:\bsp\cleanbsp-0.96e-src\enablers.cpp
+	"global.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jidctflt.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\tokenizer.cpp
+	"global.h"
+
+1330567582 source:d:\bsp\cleanbsp-0.96e-src\ent.cpp
+	"global.h"
+
+1330573774 source:d:\bsp\cleanbsp-0.96e-src\texinfo.cpp
+	"global.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jmemmgr.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1330536833 d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jmemsys.h
+
+1330564184 source:d:\bsp\cleanbsp-0.96e-src\util.cpp
+	"global.h"
+	<share.h>
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jmemnobs.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1330620835 source:d:\bsp\cleanbsp-0.96e-src\xyview.cpp
+	"global.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\group.cpp
+	"global.h"
+
+1330615296 source:d:\bsp\cleanbsp-0.96e-src\wcontrol.cpp
+	"global.h"
+
+1330563421 source:d:\bsp\cleanbsp-0.96e-src\help.cpp
+	"global.h"
+
+1330536832 source:d:\bsp\cleanbsp-0.96e-src\hits.cpp
+	"global.h"
+
+1330564184 source:d:\bsp\cleanbsp-0.96e-src\wdialog.cpp
+	"global.h"
+
+1330695856 source:d:\bsp\cleanbsp-0.96e-src\console.cpp
+	"global.h"
+
+1330562524 source:d:\bsp\cleanbsp-0.96e-src\keypair.cpp
+	"global.h"
+	"propctl.h"
+
+1330620835 source:d:\bsp\cleanbsp-0.96e-src\map.cpp
+	"global.h"
+
+1330563421 source:d:\bsp\cleanbsp-0.96e-src\window.cpp
+	"global.h"
+	"propctl.h"
+
+1330536833 source:d:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jutils.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\jpgload.cpp
+	"lib/jpeg8/jpeglib.h"
+	<memory.h>
+
+1330533233 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jpeglib.h
+	"windows.h"
+	"stdio.h"
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1124190588 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jconfig.h
+
+1124190588 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jmorecfg.h
+
+1330533233 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jpegint.h
+
+1330533232 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jerror.h
+
+1359987988 source:e:\bsp\cleanbsp-0.96e-src\setbrush.cpp
+	"global.h"
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\global.h
+	"bsppch.h"
+	"bsphdr.h"
+	"util.h"
+	"tokenizer.h"
+	"qtype.h"
+	"settings.h"
+	"wutil.h"
+	"window.h"
+	"wcontrol.h"
+	"wdialog.h"
+	"dialogs.h"
+	"setbrush.h"
+	"ent.h"
+	"map.h"
+	"eclass.h"
+	"clipper.h"
+	"group.h"
+	"formats.h"
+	"texture.h"
+	"xyview.h"
+	"editwin.h"
+	"keypair.h"
+	"about.h"
+	"bspwin.h"
+	"help.h"
+	"console.h"
+	"monster.h"
+	"surface.h"
+	"commands.h"
+	"menu.h"
+	"res\resource.h"
+
+1239213402 e:\bsp\cleanbsp-0.96e-src\bsppch.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<fcntl.h>
+	<io.h>
+	<time.h>
+	<windows.h>
+	<commctrl.h>
+	<GL\gl.h>
+	<GL\glu.h>
+
+1330545780 e:\bsp\cleanbsp-0.96e-src\bsphdr.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\util.h
+	<string.h>
+	"global.h"
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\tokenizer.h
+	"global.h"
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\qtype.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\settings.h
+	"bsphdr.h"
+
+1359995099 e:\bsp\cleanbsp-0.96e-src\wutil.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\window.h
+
+1359988196 e:\bsp\cleanbsp-0.96e-src\wcontrol.h
+
+1359993465 e:\bsp\cleanbsp-0.96e-src\wdialog.h
+
+1359993465 e:\bsp\cleanbsp-0.96e-src\dialogs.h
+	"propctl.h"
+	"commands.h"
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\propctl.h
+	<windows.h>
+	"window.h"
+	"wcontrol.h"
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\commands.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\setbrush.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\ent.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\map.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\eclass.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\clipper.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\group.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\formats.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\texture.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\xyview.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\editwin.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\keypair.h
+
+1359993465 e:\bsp\cleanbsp-0.96e-src\about.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\bspwin.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\help.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\console.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\monster.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\surface.h
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\menu.h
+
+1184492972 e:\bsp\cleanbsp-0.96e-src\res\resource.h
+
+1359995683 source:e:\bsp\cleanbsp-0.96e-src\bsp2.cpp
+	"global.h"
+	"buildver.h"
+	<commctrl.h>
+
+1359996209 e:\bsp\cleanbsp-0.96e-src\buildver.h
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\window.cpp
+	"global.h"
+	"propctl.h"
+
+1330533232 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jcomapi.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1124190588 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jinclude.h
+	"jconfig.h"
+	<stddef.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdio.h>
+	<strings.h>
+	<string.h>
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\settings.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jutils.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359995541 source:e:\bsp\cleanbsp-0.96e-src\wutil.cpp
+	"global.h"
+
+1330533232 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdapimin.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\surface.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\bspresp.cpp
+	"global.h"
+
+1330533232 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdapistd.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359991851 source:e:\bsp\cleanbsp-0.96e-src\texture.cpp
+	"global.h"
+
+1359991017 source:e:\bsp\cleanbsp-0.96e-src\bspui.cpp
+	"global.h"
+
+1330533232 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdatasrc.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jerror.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\texture2.cpp
+	"global.h"
+
+1359991851 source:e:\bsp\cleanbsp-0.96e-src\bspui2.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdcoefct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\tokenizer.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\clipper.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdcolor.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359987988 source:e:\bsp\cleanbsp-0.96e-src\util.cpp
+	"global.h"
+	<share.h>
+
+1359993465 source:e:\bsp\cleanbsp-0.96e-src\dlgpoly.cpp
+	"global.h"
+	"propctl.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jddctmgr.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1330533233 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdct.h
+
+1183676964 source:e:\bsp\cleanbsp-0.96e-src\res\bsp.rc
+	"resource.h"
+	"winresrc.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\xyview.cpp
+	"global.h"
+
+1359993504 source:e:\bsp\cleanbsp-0.96e-src\dlgpoly2.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdhuff.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdhuff.h"
+
+1330533233 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdhuff.h
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\eclass.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\menu.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdinput.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359988327 source:e:\bsp\cleanbsp-0.96e-src\console.cpp
+	"global.h"
+
+1359991851 source:e:\bsp\cleanbsp-0.96e-src\editwin.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdmainct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330570174 source:e:\bsp\cleanbsp-0.96e-src\texinfo.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\enablers.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdmarker.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\propctl.cpp
+	"global.h"
+	"propctl.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\debug.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\ent.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdmaster.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdpostct.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359988327 source:e:\bsp\cleanbsp-0.96e-src\wcontrol.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdsample.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359987988 source:e:\bsp\cleanbsp-0.96e-src\group.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jdtrans.cpp
+	"jinclude.h"
+	"jpeglib.h"
+
+1359993616 source:e:\bsp\cleanbsp-0.96e-src\wdialog.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\help.cpp
+	"global.h"
+
+1330533232 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jerror.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jversion.h"
+	"jerror.h"
+	"jerror.h"
+
+1124190588 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jversion.h
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\hits.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\glmd2.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\keypair.cpp
+	"global.h"
+	"propctl.h"
+
+1330533232 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jfdctflt.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\glutil.cpp
+	"global.h"
+	"lib/jpeg8/jpeglib.h"
+	"lib/png/png.h"
+
+1315343898 e:\bsp\cleanbsp-0.96e-src\lib\png\png.h
+	"pnglibconf.h"
+	<setjmp.h>
+	<time.h>
+	"pngconf.h"
+
+1315343898 e:\bsp\cleanbsp-0.96e-src\lib\png\pnglibconf.h
+
+1315343898 e:\bsp\cleanbsp-0.96e-src\lib\png\pngconf.h
+	<limits.h>
+	<strings.h>
+	<string.h>
+	<stdio.h>
+	<dos.h>
+
+1359991441 source:e:\bsp\cleanbsp-0.96e-src\map.cpp
+	"global.h"
+
+1330533232 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jidctflt.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\map2.cpp
+	"global.h"
+
+1359993465 source:e:\bsp\cleanbsp-0.96e-src\about.cpp
+	"global.h"
+	"buildver.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\matrix3.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jmemmgr.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1330533233 e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jmemsys.h
+
+1359991280 source:e:\bsp\cleanbsp-0.96e-src\monster.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\imageutil.cpp
+	"global.h"
+	"lib/png/png.h"
+	"lib/jpeg8/jpeglib.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\bsp.cpp
+	"global.h"
+
+1330533233 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg6\jmemnobs.cpp
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\render.cpp
+	"global.h"
+
+1359987650 source:e:\bsp\cleanbsp-0.96e-src\draw.cpp
+	"global.h"
+	"draw.h"
+
+1359987650 e:\bsp\cleanbsp-0.96e-src\draw.h
+	"global.h"
+
+1353115239 e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1353115240 e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jconfig.h
+
+1353382049 e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jmorecfg.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<fcntl.h>
+	<io.h>
+	<time.h>
+	<windows.h>
+
+1353115240 e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jpegint.h
+
+1353115240 e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jerror.h
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jaricom.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jinclude.h
+	"jconfig.h"
+	<stddef.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdio.h>
+	<strings.h>
+	<string.h>
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcapimin.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcapistd.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcarith.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jccoefct.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jccolor.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcdctmgr.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1353115240 e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdct.h
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jchuff.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcinit.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcmainct.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcmarker.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcmaster.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcomapi.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcparam.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcprepct.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jcsample.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jctrans.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdapimin.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdapistd.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdarith.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdatadst.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jerror.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdatasrc.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jerror.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdcoefct.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdcolor.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jddctmgr.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdhuff.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdinput.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdmainct.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdmarker.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdmaster.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdmerge.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdpostct.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdsample.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jdtrans.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jerror.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jversion.h"
+	"jerror.h"
+	<stdlib.h>
+	<windows.h>
+	"jerror.h"
+
+1353115239 e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jversion.h
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jfdctflt.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jfdctfst.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jfdctint.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jidctflt.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jidctfst.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jidctint.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jmemmgr.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1353115239 e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jmemsys.h
+	<Files.h>
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jmemnobs.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1353115239 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jquant1.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jquant2.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1353115240 source:e:\bsp\cleanbsp-0.96e-src\lib\jpeg8\jutils.c
+	"jinclude.h"
+	"jpeglib.h"
+

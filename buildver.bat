@@ -1,0 +1,1 @@
+@buildver.vbs buildver.h
